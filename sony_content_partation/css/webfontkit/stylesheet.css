@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'AvantGardeGothicITCW01BkRegular';
+    src: url('avantgardegothicitcw01b_731069.eot');
+    src: url('avantgardegothicitcw01b_731069.eot') format('embedded-opentype'),
+         url('avantgardegothicitcw01b_731069.woff') format('woff'),
+         url('avantgardegothicitcw01b_731069.ttf') format('truetype'),
+         url('avantgardegothicitcw01b_731069.svg#AvantGardeGothicITCW01BkRegular') format('svg');
+}

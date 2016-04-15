@@ -1,0 +1,72 @@
+@charset "UTF-8";
+/* CSS Document */
+ul, li, {list-style:none;margin:0px;padding:0px;  font-family: 'AvantGardeGothicITCW01BkRegular';}
+a img {border:0px; margin:0px; padding:0px;}
+h1,{ font-family: 'AvantGardeGothicITCW01BkRegular'; font-size:30px; margin-bottom:-10px; font-weight:normal;}
+h2{font-family: 'AvantGardeGothicITCW01BkRegular'; font-size:24px; }
+h3{font-family: 'AvantGardeGothicITCW01BkRegular'; font-size:18px; font-weight:bold; line-height:4px; }
+p {font-size:14px; font-family: 'AvantGardeGothicITCW01BkRegular'arial; color:#ffffff; font-weight:normal;  }
+p2 {font-size:14px; font-family: 'AvantGardeGothicITCW01BkRegular'arial; color:#cbc6f0; font-weight:normal;  }
+the_project_resound p {font-size:14px; font-family: 'AvantGardeGothicITCW01BkRegular'; color:#ffffff; font-weight:bold;  }
+body{background:#000000;color:#FFF;font-family:Arial, Helvetica, sans-serif;font-size:15px;margin:0px;padding:0px; font-family: 'AvantGardeGothicITCW01BkRegular';}
+.clear{clear:both;}
+.cntr{margin:0px auto;text-align:center}
+#wapper{width:1000px;margin:0px auto;}
+#header{height:566px;background:url(../images/bg_top.png)}
+#logo{width:414px;height:213px;}
+#section2{background:url(../images/section2.jpg) no-repeat; height:1526px;margin-top:-58px;}
+.challege {width:772px; height:auto; text-align:center; margin:auto; padding:0px;} 
+.challenge_text {width:800px; height:auto; text-align:center; margin:auto; margin-bottom:-10px;} 
+.the_project_resound {width:808px; height:auto; padding-top:1250px; text-align:center; margin:auto; }
+.project_resound_img { height:50px; margin-left: 362px; padding-top: 20px;}
+.the_project_resound p {color: #FFFFFF;font-size: 14px; font-weight: normal; line-height: 24px; margin-top: 1px; margin-bottom:-10px;}
+
+#section3{background:url(../images/section3.jpg) no-repeat; height:932px;}
+#section3 ul{margin-left:32px; list-style:none; float:left;}
+#section3 ul li{margin:0px 0px 20px 23px;width:256px;height:252px;display:inline; float:left;}
+
+#section4  {background:#bc9359; height:485px;}
+.contast { width:300px; height:50px; margin:auto; padding-top:40px;}
+.box  {width:290px; height:300px; }
+.grallery_box {width:936px; height:331px; margin:auto}
+.grallery_box ul{ float:left; list-style:none; width:912px; }
+.grallery_box li{ float:left;margin:0px 0px 20px 30px; width:265px;height:252px;display:inline;}
+.grallery_box li h3{ margin-left:7px;}
+.grallery_box li p{ width:264px; margin-left:7px;}
+
+
+#section5  {width:1000px; height:617px; }
+.press_ad {width:500px; height:617px; background:#80a2ae; float:left;}
+.header_text {width:358px; height:50px; margin:auto; margin-top:55px;}
+.header_social {width:100px; height:50px; margin:auto; margin-top:55px;}
+.product_viedo {width:270px; height:50px; margin:auto; margin-top:55px;}
+.header_img {width:347px; height:287px; margin:auto; }
+.header_img_banner {width:427px; height:360px; margin:auto; }
+.conubia {height: 165px;  margin: auto;  width: 313px;}
+.conubia p{height: 165px;  margin: auto;  width: 313px; line-height:20px;}
+
+
+.in_store {width:500px; height:617px; background:#897d9f; float:left;}
+
+.emailer {width:500px; height:617px; background:#9a8f97; float:left;}
+
+.social {width:500px; height:617px; background:#797a71; float:left;}
+
+#section7  {width:1000px; height:735px; background:#586a65;}
+#section8  {width:1000px; height:1126px; background:url(../images/section7.jpg) no-repeat #1d1a33;;}
+.webisodes {height: 500px;   padding: 0px; width: 300px; color:#FFF;  line-height:16px;}
+.white { font-size:14px; color:#FFF;}
+.white_bold { font-size:14px; color:#FFF; font-weight:bold;}
+
+.result {width:1000px; height:701px; padding-top:550px;}
+.result ul{list-style:none; float:left;}
+.result li{list-style:none; float:left; font-family: 'AvantGardeGothicITCW01BkRegular'; font-size:14px; display:inline; width:320px; padding:0px; height:512px;}
+
+
+
+.campain {width:100%; background:#d26e3d; padding:20px 0; text-align:center;}
+.campain_hub_image {margin:20px 0px;}
+.campain_hub {margin:20px 0 0 0 ;}
+.the_project {width:900px; margin:0px 0 30px 100px; text-align:left; }
+.pr_heading {width:200px; margin:auto; padding:50px 0 0 0px;}
+.pr_img {width:800px; margin:auto; padding-top:20px;}
